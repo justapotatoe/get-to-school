@@ -26,4 +26,10 @@ if people on aisle next to seat != 0
 else
   enter aisle and walk out
 
-reach school, yay
+enter siamscape building
+buy breakfast
+enter lift
+eat food on 9th floor
+go to 11th floor
+check in
+enter class
