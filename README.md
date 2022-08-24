@@ -1,2 +1,5 @@
 # get-to-school
-i wanna learn syntax
+
+__if lunchbox = 1 && schoolbag = 1
+  leave house
+
